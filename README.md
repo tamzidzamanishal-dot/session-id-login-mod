@@ -1,6 +1,6 @@
 <div align="center">
 
-# SchubiAuth
+# Session ID Login Mod
 
 ![](https://img.shields.io/github/downloads/Schubilegend/SchubiAuthV2/total?style=for-the-badge)
 

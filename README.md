@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/downloads/Schubilegend/SchubiAuthV2/total?style=for-the-badge)
 
-**A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID**
+**A 1.21.x fabric that allows you to login to other people's minecraft accounts using a Session ID**
 </div>
 
 ## Looking for 1.21 Support?
